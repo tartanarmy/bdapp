@@ -1,0 +1,20 @@
+{
+  "name": "bdapp",
+  "version": "1.0.0",
+  "description": "BD App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tartanarmy/bdapp.git"
+  },
+  "author": "Euan McCreath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tartanarmy/bdapp/issues"
+  },
+  "homepage": "https://github.com/tartanarmy/bdapp#readme"
+}
